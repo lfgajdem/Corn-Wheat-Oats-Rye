@@ -1,7 +1,7 @@
 
 
 Python 3.9.23
-GCC 11.2.0
+libgcc-ng=11.2.0 (GCC) 11.2.0
 pandas=2.3.2
 numpy=1.21.6
 matplotlib=3.9.2
