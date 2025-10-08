@@ -31,5 +31,8 @@ All crops suffered a sharp decline (greatest in corn) between 2007 and 2009 due 
 
 ---
 ## Alberto Cairo's principles. Design choices.
-- `'truthfulness'` A specific function was performed to clean the data frames. The average yield per year was calculated for each crop after discarding the NANs. The graph starts in 1923 and shows an average yield of 0 (with a scale of every 1,000 kg/ha).
+- `'Truthfulness'` A specific function was performed to clean the data frames. The average yield per year was calculated for each crop after discarding the NANs. The graph starts in 1923 and shows an average yield of 0 (with a scale of every 1,000 kg/ha).
+- `'Beauty'` The colors of the Argentine flag were used for the title, the background of the figure, the vertical bar, and the text on the bar. Soft colored ticks were added, and all frame borders were removed
+- `'Functionality'`
+- `'Insightfulness'`
 
