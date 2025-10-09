@@ -41,7 +41,8 @@ Each crop was assigned a different color, and a name was added to the end of its
 - [`'Argentina Corn-Wheat-Oats-Rye.ipynb'`](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/Argentina%20Corn-Wheat-Oats-Rye.ipynb) File with code in the Jupiter notebook.
 - [`'./assets'`](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/tree/main/assets) The directory contains data sets.
 - [`'./images'`](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/tree/main/images) The directory contains screenshots.
-- `'README.md'` This documentation file
+- `'README.md'` This documentation file.
+- `'requirements.txt'` Package versions.
 
 **A brief explanation of the functions used**
 - *clean_df* : Responsible for data analysis and cleaning tasks.
