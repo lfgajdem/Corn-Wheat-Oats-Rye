@@ -7,6 +7,14 @@
 What was the average yield in kilograms per hectare (kg/ha) for corn, wheat, oats and rye in Argentina between 1923 and 2020? Has productivity increased over the last 30 years?
 
 **Datasets**\
+<details>
+<summary>The following was extracted from:</summary>
+[Corn]([https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/assets/maiz-serie-1923-2019.csv](https://datos.gob.ar/dataset/agroindustria-maiz---siembra-cosecha-produccion-rendimiento)
+[Wheat]()
+ - [Oats]()
+ - [Rye]() 
+</details>
+
  \- [Corn](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/assets/maiz-serie-1923-2019.csv
 ) - [Wheat](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/assets/trigo-serie-1923-2020-anual.csv
 ) - [Oats](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/blob/main/assets/avena-serie-1923-2020.csv
