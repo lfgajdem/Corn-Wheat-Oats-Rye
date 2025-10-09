@@ -57,4 +57,7 @@ A(["Widget"])
     B-->D["plot_performance"];
     D-->E["figure_axis"];
 ```
+**Software versions**\
+\- Python 3.13.7 [GCC 11.2.0] - IPython 8.30.0 - pandas 2.3.3 - numpy 2.1.3 - matplotlib 3.10.6 - ipywidgets 8.1.5
+
 
