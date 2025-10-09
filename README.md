@@ -42,3 +42,19 @@ Each crop was assigned a different color, and a name was added to the end of its
 - [`'./assets'`](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/tree/main/assets) The directory contains data sets.
 - [`'./images'`](https://github.com/lfgajdem/Corn-Wheat-Oats-Rye/tree/main/images) The directory contains screenshots.
 - `'README.md'` This documentation file
+
+**A brief explanation of the functions used**
+- *clean_df* :
+- *figure_axis* :
+- *plot_performance* :
+- *change_year* : 
+
+```
+flowchart LR
+A(["Widget"])
+    A-->B["change_year"];
+    B-->C["clean_df"];
+    B-->D["plot_performance"];
+    D-->E["figure_axis"];
+```
+
