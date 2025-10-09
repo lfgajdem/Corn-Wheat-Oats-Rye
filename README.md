@@ -30,10 +30,15 @@ Rye had similar yields until 1998, when a sustained increase began.\
 All crops suffered a sharp decline (greatest in corn) between 2007 and 2009 due to a drought.
 
 ---
-## Alberto Cairo's principles. Design choices.
+### Alberto Cairo's principles. Design choices.
 - `'Truthfulness'` A specific function was performed to clean the data frames. The average yield per year was calculated for each crop after discarding the NANs. The graph starts in 1923 and shows an average yield of 0 (with a scale of every 1,000 kg/ha).
 - `'Beauty'` The colors of the Argentine flag were used for the title, the background of the figure, the vertical bar, and the text on the bar. Soft colored ticks were added, and all frame borders were removed.
 - `'Functionality'` A line plot was chosen to graph a 97-year timeline and compare yields. Horizontal lines were added at 1,000 kg/ha, followed by lines every 2,000 kg/ha, to determine each crop's range and observe variations in yield.
 - `'Insightfulness'` A movable vertical bar was added to determine the average annual yield of the four crops.
 Each crop was assigned a different color, and a name was added to the end of its corresponding plot. 
-
+---
+**Repository contents**
+- [`'Argentina Corn-Wheat-Oats-Rye.ipynb'`] File with code in the Jupiter notebook.
+- [`'./assets'`] The directory contains data sets.
+- [`'./images'`] The directory contains screenshots.
+- `'README.md'` This documentation file
