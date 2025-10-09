@@ -44,12 +44,12 @@ Each crop was assigned a different color, and a name was added to the end of its
 - `'README.md'` This documentation file
 
 **A brief explanation of the functions used**
-- *clean_df* :
-- *figure_axis* :
-- *plot_performance* :
-- *change_year* : 
+- *clean_df* : Responsible for data analysis and cleaning tasks.
+- *figure_axis* : It is responsible for plotting the figure, creating the title, legend, axis labels, and horizontal lines.
+- *plot_performance* : It creates four line plots, one for each crop.
+- *change_year* :  According to the selected year, it displays the average yield in kilograms per hectare (kg/ha) for each crop.
 
-```
+```mermaid
 flowchart LR
 A(["Widget"])
     A-->B["change_year"];
